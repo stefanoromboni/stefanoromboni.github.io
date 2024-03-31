@@ -1,4 +1,5 @@
 # journeyintophysics.github.io
+theme: jekyll-theme-minimal
 
 In this repository all the file of my website are stored. 
 
